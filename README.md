@@ -1,3 +1,3 @@
 # hcfx-assignment
 
-![Troubleshooting steps](documentation/troubleshooting.png "Troubleshooting")
+![Troubleshooting steps](../../troubleshooting.png "Troubleshooting")
